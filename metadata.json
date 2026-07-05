@@ -1,0 +1,6 @@
+{
+  "name": "BackOffice Pro",
+  "description": "A modern, commercial-grade Back Office Management System designed for managing customers, tasks, documents, employees, leads, reports, and company settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
